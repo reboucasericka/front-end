@@ -19,7 +19,7 @@ h2{
   color:#ffe36d;
   }
 section{
-  width:60%;
+  max-width:60%;
   margin:0 auto;
   }
 section section{
